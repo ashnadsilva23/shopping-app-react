@@ -24,6 +24,9 @@ const Navabar = () => {
         <li class="nav-item">
           <Link class="nav-link" to="/view">View All</Link>
         </li>
+        <li class="nav-item">
+          <Link class="nav-link" to="/viewproduct">View Product</Link>
+        </li>
       </ul>
     </div>
   </div>
